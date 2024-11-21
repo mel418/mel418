@@ -15,7 +15,7 @@
 - Building things that might just make life a little easier (or a lot more fun!) 🎮🚀
 
 ### GitHub Stats 📊
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mel418&show_icons=true&layout=compact&theme=dark&hide_border=true&bg_color=22272E00)](https://github.com/mel418?tab=repositories)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mel418&show_icons=true&layout=compact&theme=dark&hide_border=true&bg_color=22272E00&hide_rank=true)](https://github.com/mel418?tab=repositories)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mel418&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=22272E00)](https://github.com/mel418?tab=repositories)
 
 ### 🎧 Recently Listened to...
