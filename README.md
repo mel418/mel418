@@ -1,18 +1,8 @@
 # Hewoo~! Welcome to my GitHub profile! 💖
 
-### About Me 👩‍💻
-- I'm a software developer with a love for building meaningful tech that makes a difference 💡
-- Currently juggling a few projects, including Spotify Queue Party 🎶 and the Plaid API Finance App 💳
-- Always exploring new tools, languages, and APIs to make my code better and cooler
-
 ### Skills 🛠️
 - **Programming Languages**: Python, C++, JavaScript, TypeScript, Java, C#, PHP
 - **Tools & Frameworks**: React, Node.js, Express, WordPress, MongoDB, SQL, Convex
-
-### What I’m Passionate About 💻✨
-- Writing clean, efficient code that solves real-world problems 🧑‍💻
-- Playing around with new APIs and integrating them into projects 🔌
-- Building things that might just make life a little easier (or a lot more fun!) 🎮🚀
 
 ### GitHub Stats 📊
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mel418&show_icons=true&layout=compact&theme=dark&hide_border=true&bg_color=22272E00&hide_rank=true)](https://github.com/mel418?tab=repositories)
