@@ -2,6 +2,7 @@
 
 ## About Me
 I am Melody a senior in Computer Science @ California State University Long Beach!
+
 Currently learning AWS and Cloud Engineering!
 
 ## Skills 🛠️
