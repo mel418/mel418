@@ -8,7 +8,7 @@ Currently learning AWS and Cloud Engineering!
 ## Skills 🛠️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,java,cs,php,react,nodejs,express,wordpress,mongodb,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,java,cs,php,react,nodejs,express,wordpress,mongodb,mysql,firebase&perline=7" />
   </a>
 </p>
 
